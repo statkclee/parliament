@@ -1,0 +1,18 @@
+Package: parliament
+Type: Package
+Title: Data package of 21th Parliament Election
+Version: 0.1.0
+Authors@R: c(
+    person("Kwangchun", "Lee", email="kwangchun.lee.7@gmail.com", role = c("aut", "cre"))
+    )
+Maintainer: Kwangchun Lee <kwangchun.lee.7@gmail.com>
+Description: Full election data for 21th Parliament Election ready for data analysis.
+    This includes election results such as ...
+Depends:
+    R (>= 3.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/statkclee/parliament
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.2
